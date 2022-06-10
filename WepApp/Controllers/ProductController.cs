@@ -45,7 +45,7 @@ namespace WepApp.Controllers
             //        }
             //    }
             //}
-            //jaksdhajhdajkhdak
+            // TEST
             ViewBag.Count = _context.Sanphams.Count();
             return View(m);
         }
