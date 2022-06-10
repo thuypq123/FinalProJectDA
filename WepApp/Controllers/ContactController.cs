@@ -8,5 +8,9 @@ namespace WepApp.Controllers
         {
             return View();
         }
+        public IActionResult GopY()
+        {
+            return View();
+        }
     }
 }

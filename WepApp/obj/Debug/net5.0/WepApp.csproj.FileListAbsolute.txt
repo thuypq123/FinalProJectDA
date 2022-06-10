@@ -3215,3 +3215,4 @@ C:\Users\aehol\Desktop\FinalProJectDA\WepApp\obj\Debug\net5.0\refint\WepApp.dll
 C:\Users\aehol\Desktop\FinalProJectDA\WepApp\obj\Debug\net5.0\WepApp.pdb
 C:\Users\aehol\Desktop\FinalProJectDA\WepApp\obj\Debug\net5.0\WepApp.genruntimeconfig.cache
 C:\Users\aehol\Desktop\FinalProJectDA\WepApp\obj\Debug\net5.0\ref\WepApp.dll
+C:\Users\aehol\Desktop\FinalProJectDA\WepApp\obj\Debug\net5.0\Razor\Views\Contact\GopY.cshtml.g.cs
